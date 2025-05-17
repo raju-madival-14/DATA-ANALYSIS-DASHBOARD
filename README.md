@@ -4,8 +4,6 @@
 
 A Road Accident Dashboard is an interactive data visualization designed to monitor, analyse, and present key statistics related to road traffic accidents. It typically displays real-time or historical data such as the number of accidents, fatalities,accident locations and vehicle types involved. This dashboard helps stakeholders like traffic authorities, policymakers, and the public gain insights into accident patterns, identify high-risk areas, and implement safety measures to reduce road accidents.
 
-Dashboard  Interaction  <a href=https://github.com/raju-madival-14/DATA-ANALYSIS-DASHBOARD/blob/main/Dashboard%20photo.png"</a> 
-
 ##Process Involved In This Project
 
 Data Cleaning ,
@@ -42,6 +40,11 @@ WHO CAN USE
 7.traffic management agencies , 
 8.public ,
 9.media and etc…
+
+Dashboard  Interaction  <a href=https://github.com/raju-madival-14/DATA-ANALYSIS-DASHBOARD/blob/main/Dashboard%20photo.png"</a> 
+
+##Dashboard
+![Dashboard photo](https://github.com/user-attachments/assets/fbbf5308-a8e2-4ad0-adeb-ad99aabda41e)
 
 
 
