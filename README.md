@@ -5,17 +5,17 @@ A Road Accident Dashboard is an interactive data visualization designed to monit
 
 ##Process Involved In This Project
 
-Data Cleaning 
-Data Processing 
-Data Analysis 
-Data Visualization
-Report / Dashboard
+Data Cleaning ,
+Data Processing , 
+Data Analysis ,
+Data Visualization ,
+Report / Dashboard ,
 
 ##About Data 
 
-File extension ---.xlsx
-Number of record---3.07 millon
-Number of fields---21
+   File extension ---.xlsx ,
+Number of record---3.07 millon ,
+Number of fields---21 ,
 
 ##REQUIREMENTS
 
@@ -30,14 +30,14 @@ Create a Road Accident Dashboard for the year 2021 and 2022 so that we can have 
 7.relation between casualties by area / location and by day/night.
 
 WHO CAN USE 
-1.ministry of transport
-2.road transport department.
-3.police force.
-4.emergency services department.
-5.road safety corps.
-6.transport operators.
-7.traffic management agencies. 
-8.public. 
+1.ministry of transport ,
+2.road transport department ,
+3.police force ,
+4.emergency services department ,
+5.road safety corps ,
+6.transport operators ,
+7.traffic management agencies , 
+8.public ,
 9.media and etc…
 
 
