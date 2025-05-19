@@ -1,4 +1,4 @@
-# Road Accident Analysis  (interactive dashborad creation using MS Excel)
+# Road Accident Analysis  (interactive dashboard creation using MS Excel)
 
 ## Project objective 
 
